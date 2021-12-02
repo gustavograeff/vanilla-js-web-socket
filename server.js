@@ -1,5 +1,4 @@
 // Important reading: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers
-// Useful links:
 
 const http = require("http");
 const crypto = require("crypto");
