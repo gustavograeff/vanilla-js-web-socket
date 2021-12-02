@@ -5,5 +5,6 @@ I really hope you all enjoy the code and understand what is and how works WebSoc
 Node.js version: 14.15.4
 
 Running:
+
 Server -> node server.js
 Client -> open index.html file
